@@ -56,3 +56,5 @@ streamlit.write('Thanks for adding ',add_my_fruit)
 
 #This will not work correctly
 my_cur.execute=("insert into pc_rivery_db.public.fruit_load_list values ('from streamlit')")
+
+
